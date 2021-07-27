@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himunamo
-- 👀 I’m interested in Software Development and Machine learning.
-- 🎓 Prefinal year IIT Dhanbad with Minors in Data Science (CSE).
+- 👀 I’m interested in Backend Software Development and Machine learning.
+- 🎓 Prefinal year IIT Dhanbad.
 
 <!---
 himunamo/himunamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
