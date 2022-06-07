@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himunamo
-- 👀 I’m interested in Backend Software Development and Machine learning.
+- 👀 I’m interested in Machine learning and Deep Learning.
 - 🎓 Prefinal year IIT Dhanbad.
 
 <!---
